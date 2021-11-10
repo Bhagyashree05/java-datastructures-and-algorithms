@@ -5,7 +5,7 @@ Data structure provides a means of organizing, managing, and storing data effici
 
 #### https://www.bigocheatsheet.com/
 
-### Graphical representation of algorithms and sorting techniques
+### Graphical representation of algorithms and sorting techniques:
 
 #### https://visualgo.net/en
 
