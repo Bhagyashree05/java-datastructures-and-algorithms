@@ -1,7 +1,7 @@
 # Java Data Structures and Algorithms
 Data structure provides a means of organizing, managing, and storing data efficiently. They are necessary for designing efficient algorithms.
 
-### Time Complexity and Space Complexity
+### Time Complexity and Space Complexity:
 
 #### https://www.bigocheatsheet.com/
 
